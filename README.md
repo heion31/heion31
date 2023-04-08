@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <img align="left" height="150" src="https://media.tenor.com/IXQrFfFjIzAAAAAC/yofukashi-no-uta-call-of-the-night.gif" />
-<h1 align="center">𝚈𝚘! 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙽𝚘𝚊𝚑 𝚊𝚔𝚊 𝙷𝚎𝚒𝚘𝚗 🌞</h1>
+<h1 align="center">𝚈𝚘! 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝐍𝐨𝐚𝐡 𝚊.𝚔.𝚊 '𝐇𝐞𝐢𝐨𝐧' 🌞</h1>
 
 <h2 align="center">ɪ'ᴍ ʙꜱɪᴛ ꜱᴛᴜᴅᴇɴᴛ ꜰʀᴏᴍ ᴛʜᴇ 🇵🇭, ᴀɴᴅ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</h2>
 
@@ -16,7 +16,7 @@
 </p>
 
 <!-- LANGUAGES/TOOLS -->
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Languages and tools</h3>
 <p align="center">
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
