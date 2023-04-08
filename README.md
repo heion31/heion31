@@ -3,8 +3,6 @@
 <h1 align="center">Yo! My name is Noah 🌞</h1>
 <h2 align="center">I'm BSIT student from the Philippines 🇵🇭, practicing frontend development to create stunning digital experiences.</h2>
 
-<br>
-
 <!-- TOTAL VISITORS -->
 <img align="center" src="https://visitcount.itsvg.in/api?id=heion31&icon=6&color=12" alt="Visit Count" />
 
