@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <img align="left" height="150" src="https://media.tenor.com/IXQrFfFjIzAAAAAC/yofukashi-no-uta-call-of-the-night.gif" />
 <h1 align="center">Yo! My name is Noah 🌞</h1>
-<h2 align="center">I'm BSIT student from 🇵🇭, mastering frontend development.</h2>
+<h2 align="center">I'm BSIT student from the Philippines 🇵🇭, practicing frontend development to create stunning digital experiences.</h2>
 
 <br>
 
