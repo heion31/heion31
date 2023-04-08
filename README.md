@@ -9,9 +9,9 @@
 <!-- SOCIAL MEDIA -->
 <h3 align="center">🌐 Socials</h3>
 <p align="center">
-     <a href="https://dev.to/heion31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heion31" height="30" width="40" /></a>
-     <a href="https://twitter.com/heion31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heion31" height="30" width="40" /></a>
-     <a href="https://instagram.com/heionagma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heionagma" height="30" width="40" /></a>
+     <a href="https://dev.to/heion31" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heion31" height="30" width="40" /></a>
+     <a href="https://twitter.com/heion31" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heion31" height="30" width="40" /></a>
+     <a href="https://instagram.com/heionagma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heionagma" height="30" width="40" /></a>
 </p>
 
 <!-- LANGUAGES/TOOLS -->
