@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img align="left" height="150" width="200" src="https://pbs.twimg.com/profile_images/1585819921594085376/Oa93Cj7Q_400x400.jpg" />
+<img align="left" height="150" src="https://pbs.twimg.com/profile_images/1585819921594085376/Oa93Cj7Q_400x400.jpg" />
 <h1 align="center">𝚈𝚘! I'm 𝐍𝐨𝐚𝐡 𝚊.𝚔.𝚊 '𝐇𝐞𝐢𝐨𝐧' 🌞</h1>
 <h2 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h2>
 
@@ -7,8 +7,6 @@
 
 <!-- TOTAL VISITORS -->
 <img align="center" src="https://visitcount.itsvg.in/api?id=heion31&icon=6&color=12" alt="Visit Count" />
-
-<br>
 
 <!-- SOCIAL MEDIA -->
 <h3 align="center">🌐 Socials</h3>
